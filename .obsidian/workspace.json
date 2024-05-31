@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "0ede39b931d2a917",
+    "type": "split",
+    "children": [
+      {
+        "id": "c384cc98e114ae99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "825da5f59bb08679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디자인 패턴/싱글톤 패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39dde9a585cb2d3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "317ea326153879de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a05b4ed198ac38ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e99ec015138c48e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04556563edb61503",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a11b6163792b07fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "22dd6499fc55ba24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be93e60b3f169299",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "디자인 패턴/싱글톤 패턴.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f2889dcaee0185a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "디자인 패턴/싱글톤 패턴.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f10068f404c5e76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5cf0d8f57af4dacf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "디자인 패턴/싱글톤 패턴.md"
+              }
+            }
+          },
+          {
+            "id": "af22cfa053f64cc6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "825da5f59bb08679",
+  "lastOpenFiles": [
+    "2024-05-31.md",
+    "디자인 패턴/싱글톤 패턴.md",
+    "디자인 패턴",
+    "Welcome.md",
+    "무제 파일.canvas"
+  ]
+}
