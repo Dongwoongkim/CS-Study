@@ -154,8 +154,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "825da5f59bb08679",
+  "active": "a05b4ed198ac38ff",
   "lastOpenFiles": [
+    "자료구조",
+    "데이터베이스",
+    "네트워크",
+    "운영체제",
     "2024-05-31.md",
     "디자인 패턴/싱글톤 패턴.md",
     "디자인 패턴",
