@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제/프로세스 vs 프로그램 vs 스레드.md",
+                "file": "운영체제/9. 메모리 할당 기법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제/프로세스 vs 프로그램 vs 스레드.md",
+                "file": "운영체제/9. 메모리 할당 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제/프로세스 vs 프로그램 vs 스레드.md",
+                "file": "운영체제/9. 메모리 할당 기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제/프로세스 vs 프로그램 vs 스레드.md"
+                "file": "운영체제/9. 메모리 할당 기법.md"
               }
             }
           },
@@ -156,8 +156,15 @@
   },
   "active": "825da5f59bb08679",
   "lastOpenFiles": [
-    "운영체제/메모리 계층 구조 - 레지스터, 캐시, 주기억장치, 보조기억장치.md",
-    "운영체제/프로세스 vs 프로그램 vs 스레드.md",
+    "운영체제/7. CPU 스케줄링.md",
+    "운영체제/6. 데드락(DeadLock)과 은행원 알고리즘.md",
+    "운영체제/5. 경쟁상태(Race Condition)의 Solution.md",
+    "운영체제/4. IPC.md",
+    "운영체제/8. 캐시 메모리.md",
+    "운영체제/9. 메모리 할당 기법.md",
+    "운영체제/3. 멀티프로세스 vs 멀티스레드.md",
+    "운영체제/2. 프로세스 vs 프로그램 vs 스레드.md",
+    "운영체제/1. 메모리 계층 구조.md",
     "디자인 패턴/싱글톤 패턴.md",
     "자료구조",
     "데이터베이스",
