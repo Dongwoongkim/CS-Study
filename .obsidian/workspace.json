@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인 패턴/싱글톤 패턴.md",
+                "file": "운영체제/프로세스 vs 프로그램 vs 스레드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인 패턴/싱글톤 패턴.md",
+                "file": "운영체제/프로세스 vs 프로그램 vs 스레드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인 패턴/싱글톤 패턴.md",
+                "file": "운영체제/프로세스 vs 프로그램 vs 스레드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인 패턴/싱글톤 패턴.md"
+                "file": "운영체제/프로세스 vs 프로그램 vs 스레드.md"
               }
             }
           },
@@ -154,14 +154,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a05b4ed198ac38ff",
+  "active": "825da5f59bb08679",
   "lastOpenFiles": [
+    "운영체제/메모리 계층 구조 - 레지스터, 캐시, 주기억장치, 보조기억장치.md",
+    "운영체제/프로세스 vs 프로그램 vs 스레드.md",
+    "디자인 패턴/싱글톤 패턴.md",
     "자료구조",
     "데이터베이스",
     "네트워크",
     "운영체제",
     "2024-05-31.md",
-    "디자인 패턴/싱글톤 패턴.md",
     "디자인 패턴",
     "Welcome.md",
     "무제 파일.canvas"
