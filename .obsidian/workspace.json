@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인 패턴/싱글톤 패턴.md",
+                "file": "디자인 패턴/팩토리 메소드 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인 패턴/싱글톤 패턴.md",
+                "file": "디자인 패턴/팩토리 메소드 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인 패턴/싱글톤 패턴.md",
+                "file": "디자인 패턴/팩토리 메소드 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인 패턴/싱글톤 패턴.md"
+                "file": "디자인 패턴/팩토리 메소드 패턴.md"
               }
             }
           },
@@ -156,6 +156,10 @@
   },
   "active": "825da5f59bb08679",
   "lastOpenFiles": [
+    "Pasted image 20240603171649.png",
+    "Pasted image 20240603165856.png",
+    "디자인 패턴/싱글톤 패턴.md",
+    "디자인 패턴/팩토리 메소드 패턴.md",
     "디자인 패턴/DesingPatternCode/out/production/DesingPatternCode/singleton/Singleton.class",
     "디자인 패턴/DesingPatternCode/out/production/DesingPatternCode/singleton/Main.class",
     "디자인 패턴/DesingPatternCode/out/production/DesingPatternCode/singleton/Main$Singleton.class",
@@ -166,7 +170,6 @@
     "디자인 패턴/DesingPatternCode/src/singleton/Main.java",
     "디자인 패턴/DesingPatternCode/src/singleton/Singleton.java",
     "디자인 패턴/DesingPatternCode/src/singleton",
-    "디자인 패턴/DesingPatternCode/DesingPatternCode.iml",
     "운영체제/9. 메모리 할당 기법.md",
     "운영체제/7. CPU 스케줄링.md",
     "운영체제/6. 데드락(DeadLock)과 은행원 알고리즘.md",
@@ -176,7 +179,6 @@
     "운영체제/3. 멀티프로세스 vs 멀티스레드.md",
     "운영체제/2. 프로세스 vs 프로그램 vs 스레드.md",
     "운영체제/1. 메모리 계층 구조.md",
-    "디자인 패턴/싱글톤 패턴.md",
     "2024-05-31.md",
     "Welcome.md",
     "무제 파일.canvas"
