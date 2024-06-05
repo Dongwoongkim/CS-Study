@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11bcf43a07773f61",
+        "id": "a03e0e6ab509c217",
         "type": "tabs",
         "children": [
           {
-            "id": "d534ec227bdddaf7",
+            "id": "a222d7064d39f547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인 패턴/팩토리 메소드 패턴.md",
+                "file": "Java/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인 패턴/팩토리 메소드 패턴.md",
+                "file": "Java/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인 패턴/팩토리 메소드 패턴.md",
+                "file": "Java/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인 패턴/팩토리 메소드 패턴.md"
+                "file": "Java/무제 파일.md"
               }
             }
           },
@@ -154,11 +154,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d534ec227bdddaf7",
+  "active": "a222d7064d39f547",
   "lastOpenFiles": [
+    "Java/무제 파일.md",
+    "디자인 패턴/팩토리 메소드 패턴.md",
+    "운영체제/1. 메모리 계층 구조.md",
     "운영체제/6. 데드락(DeadLock)과 은행원 알고리즘.md",
     "운영체제/3. 멀티프로세스 vs 멀티스레드.md",
-    "디자인 패턴/팩토리 메소드 패턴.md",
     "Pasted image 20240603165856.png",
     "Pasted image 20240603171649.png",
     "디자인 패턴/싱글톤 패턴.md",
@@ -178,7 +180,6 @@
     "운영체제/4. IPC.md",
     "운영체제/8. 캐시 메모리.md",
     "운영체제/2. 프로세스 vs 프로그램 vs 스레드.md",
-    "운영체제/1. 메모리 계층 구조.md",
     "2024-05-31.md",
     "Welcome.md",
     "무제 파일.canvas"
