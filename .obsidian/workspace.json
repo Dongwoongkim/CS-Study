@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/== 와 equals()의 차이점.md",
+                "file": "Java/Integer Cache Pool.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/== 와 equals()의 차이점.md",
+                "file": "Java/Integer Cache Pool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/== 와 equals()의 차이점.md",
+                "file": "Java/Integer Cache Pool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/== 와 equals()의 차이점.md"
+                "file": "Java/Integer Cache Pool.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "a222d7064d39f547",
   "lastOpenFiles": [
+    "Java/Primitive Type과 Reference Type의 차이점.md",
+    "Java/Integer Cache Pool.md",
     "Java/== 와 equals()의 차이점.md",
     "디자인 패턴/팩토리 메소드 패턴.md",
     "운영체제/1. 메모리 계층 구조.md",
