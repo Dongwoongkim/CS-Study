@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a03e0e6ab509c217",
+        "id": "40fd7618228993a4",
         "type": "tabs",
         "children": [
           {
-            "id": "a222d7064d39f547",
+            "id": "5064fcab7a1f628e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Integer Cache Pool.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Integer Cache Pool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Integer Cache Pool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Integer Cache Pool.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a222d7064d39f547",
+  "active": "5064fcab7a1f628e",
   "lastOpenFiles": [
-    "Java/Primitive Type과 Reference Type의 차이점.md",
     "Java/Integer Cache Pool.md",
+    "Java/Primitive Type과 Reference Type의 차이점.md",
     "Java/== 와 equals()의 차이점.md",
     "디자인 패턴/팩토리 메소드 패턴.md",
     "운영체제/1. 메모리 계층 구조.md",
