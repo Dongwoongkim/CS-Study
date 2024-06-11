@@ -11,8 +11,12 @@
             "id": "d03be957028cbb12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Call By Value와 Call By Reference.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Call By Value와 Call By Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Call By Value와 Call By Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Call By Value와 Call By Reference.md"
+              }
             }
           },
           {
@@ -148,9 +156,10 @@
   },
   "active": "d03be957028cbb12",
   "lastOpenFiles": [
+    "Java/== 와 equals()의 차이점.md",
+    "Java/Call By Value와 Call By Reference.md",
     "Java/Integer Cache Pool.md",
     "Java/Primitive Type과 Reference Type의 차이점.md",
-    "Java/== 와 equals()의 차이점.md",
     "디자인 패턴/팩토리 메소드 패턴.md",
     "운영체제/1. 메모리 계층 구조.md",
     "운영체제/6. 데드락(DeadLock)과 은행원 알고리즘.md",
