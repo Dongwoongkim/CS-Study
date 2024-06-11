@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40fd7618228993a4",
+        "id": "0534d776028de4b0",
         "type": "tabs",
         "children": [
           {
-            "id": "5064fcab7a1f628e",
+            "id": "d03be957028cbb12",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5064fcab7a1f628e",
+  "active": "d03be957028cbb12",
   "lastOpenFiles": [
     "Java/Integer Cache Pool.md",
     "Java/Primitive Type과 Reference Type의 차이점.md",
