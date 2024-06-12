@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0534d776028de4b0",
+        "id": "27ee07bb4f4297a7",
         "type": "tabs",
         "children": [
           {
-            "id": "d03be957028cbb12",
+            "id": "d65b9b5032913889",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,12 +154,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d03be957028cbb12",
+  "active": "d65b9b5032913889",
   "lastOpenFiles": [
     "Pasted image 20240612213115.png",
+    "Java/가비지 컬렉션.md",
     "Pasted image 20240612212740.png",
     "Pasted image 20240612211742.png",
-    "Java/가비지 컬렉션.md",
     "Pasted image 20240612211745.png",
     "Java/JVM의 동작 방식, 구조.md",
     "Java/Call By Value와 Call By Reference.md",
