@@ -11,11 +11,9 @@
             "id": "d65b9b5032913889",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Java/가비지 컬렉션.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240612211745.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/가비지 컬렉션.md",
+                "file": "Pasted image 20240612211745.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/가비지 컬렉션.md",
+                "file": "Pasted image 20240612211745.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/가비지 컬렉션.md"
+                "file": "Pasted image 20240612211745.png"
               }
             }
           },
@@ -156,8 +154,8 @@
   },
   "active": "d65b9b5032913889",
   "lastOpenFiles": [
-    "Pasted image 20240612213115.png",
     "Java/가비지 컬렉션.md",
+    "Pasted image 20240612213115.png",
     "Pasted image 20240612212740.png",
     "Pasted image 20240612211742.png",
     "Pasted image 20240612211745.png",
