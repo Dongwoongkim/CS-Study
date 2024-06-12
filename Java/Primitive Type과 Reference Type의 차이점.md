@@ -40,6 +40,7 @@ public class Main {
 # 참조형 (Reference Type)
 
 - 메모리 상에서 객체가 존재하는 "주소"를 저장하며, Heap 영역에 저장합니다.
+- 
 - 클래스형, 인터페이스형, 배열형이 있습니다.
 	- 클래스형 : Integer, Long, Double, HashMap, ArrayList
 	- 인터페이스형 : List, Map, Comparable 등

@@ -76,7 +76,7 @@ JVM이 내부에서 어떻게 동작하고 어떤 구조를 가지고 있는지 
 - 효율적인 가비지 컬렉터 동작을 위해 힙 영역은 다시 3가지 영역으로 나뉩니다.
     - Young Generation : 객체가 생성되자마자 저장되고 생긴지 얼마 되지 않은 객체가 저장되는 공간.
     - Tenured Generation : Young Generation 공간이 꽉 찼을 때 새로운 객체나 배열이 생성되면 기존에 Young Generation에 있던 객체 및 배열의 참조가 이곳의 Old영역으로 이동되거나 회수됩니다. 
-        - Young Generation과 Tenured Generation 에서의 GC를 Minor GC라고 한다고 한다.
+        - Young Generation과 Tenured Generation 에서의 GC를 "Minor GC"라고 한다.
     -  Old 영역에 할당된 메모리가 허용치를 넘게 되면, Old 영역에 있는 모든 객체들을 검사하여 참조되지 않는 객체들을 한꺼번에 삭제하는 GC가 실행됩니다. 
         - Old 영역의 메모리를 회수하는 GC를 Major GC라고 한다고 한다.
 
