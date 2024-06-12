@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "27ee07bb4f4297a7",
+        "id": "097e205c13cbd281",
         "type": "tabs",
         "children": [
           {
-            "id": "d65b9b5032913889",
+            "id": "23bd8ac636639ed6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240612211745.png"
+                "file": "Java/가비지 컬렉션.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240612211745.png",
+                "file": "Java/가비지 컬렉션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240612211745.png",
+                "file": "Java/가비지 컬렉션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240612211745.png"
+                "file": "Java/가비지 컬렉션.md"
               }
             }
           },
@@ -152,18 +154,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d65b9b5032913889",
+  "active": "23bd8ac636639ed6",
   "lastOpenFiles": [
+    "Pasted image 20240612215749.png",
+    "Pasted image 20240612215431.png",
+    "image",
+    "Java/Primitive Type과 Reference Type의 차이점.md",
     "Java/가비지 컬렉션.md",
+    "Pasted image 20240612211745.png",
+    "Pasted image 20240612215416.png",
+    "Pasted image 20240612215414.png",
+    "Pasted image 20240612215409.png",
+    "Pasted image 20240612215402.png",
+    "Java/Call By Value와 Call By Reference.md",
     "Pasted image 20240612213115.png",
     "Pasted image 20240612212740.png",
     "Pasted image 20240612211742.png",
-    "Pasted image 20240612211745.png",
     "Java/JVM의 동작 방식, 구조.md",
-    "Java/Call By Value와 Call By Reference.md",
     "Java/== VS equals().md",
     "Java/Integer Cache Pool.md",
-    "Java/Primitive Type과 Reference Type의 차이점.md",
     "운영체제/1. 메모리 계층 구조.md",
     "운영체제/2. 프로세스 vs 프로그램 vs 스레드.md",
     "운영체제/5. 경쟁상태(Race Condition)의 Solution.md",
@@ -173,7 +182,6 @@
     "운영체제/6. 데드락(DeadLock)과 은행원 알고리즘.md",
     "운영체제/3. 멀티프로세스 vs 멀티스레드.md",
     "Pasted image 20240603165856.png",
-    "Pasted image 20240603171649.png",
     "디자인 패턴/싱글톤 패턴.md",
     "디자인 패턴/DesingPatternCode/out/production/DesingPatternCode/singleton/Singleton.class",
     "디자인 패턴/DesingPatternCode/out/production/DesingPatternCode/singleton/Main.class",
@@ -184,7 +192,6 @@
     "디자인 패턴/DesingPatternCode/out",
     "디자인 패턴/DesingPatternCode/src/singleton/Main.java",
     "디자인 패턴/DesingPatternCode/src/singleton/Singleton.java",
-    "디자인 패턴/DesingPatternCode/src/singleton",
     "운영체제/7. CPU 스케줄링.md",
     "운영체제/8. 캐시 메모리.md",
     "2024-05-31.md",
