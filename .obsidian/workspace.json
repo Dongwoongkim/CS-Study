@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "097e205c13cbd281",
+        "id": "17c84fd43f740775",
         "type": "tabs",
         "children": [
           {
-            "id": "23bd8ac636639ed6",
+            "id": "bdf472870819bc87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,23 +154,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "23bd8ac636639ed6",
+  "active": "bdf472870819bc87",
   "lastOpenFiles": [
-    "Pasted image 20240612220011.png",
+    "Pasted image 20240612220439.png",
+    "Java/가비지 컬렉션.md",
+    "Pasted image 20240612220449.png",
+    "Pasted image 20240612220448.png",
+    "Pasted image 20240612220447.png",
+    "Pasted image 20240612220434.png",
+    "Java/Primitive Type과 Reference Type의 차이점.md",
     "Java/Pasted image 20240612215749.png",
+    "Pasted image 20240612220011.png",
     "Pasted image 20240612215431.png",
     "image",
-    "Java/Primitive Type과 Reference Type의 차이점.md",
-    "Java/가비지 컬렉션.md",
     "Pasted image 20240612211745.png",
     "Pasted image 20240612215416.png",
-    "Pasted image 20240612215414.png",
-    "Pasted image 20240612215409.png",
-    "Pasted image 20240612215402.png",
     "Java/Call By Value와 Call By Reference.md",
-    "Pasted image 20240612213115.png",
-    "Pasted image 20240612212740.png",
-    "Pasted image 20240612211742.png",
     "Java/JVM의 동작 방식, 구조.md",
     "Java/== VS equals().md",
     "Java/Integer Cache Pool.md",
