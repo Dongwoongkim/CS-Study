@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52eac378d3c803ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,8 +189,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52b9b6a770dff8c5",
+  "active": "a05b4ed198ac38ff",
   "lastOpenFiles": [
+    "무제 폴더 1",
     "디자인 패턴/MVC 패턴.md",
     "기술 면접 대비.md",
     "무제 폴더",
